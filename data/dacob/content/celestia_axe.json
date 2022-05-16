@@ -4,7 +4,7 @@
     "durability": 1500,
     "mining_speed_multiplier": 0,
     "attack_damage": 25,
-    "attack_speed": 1,
+    "attack_speed": 0.5,
     "mining_level": 1,
     "enchantability": 12,
     "lore": [
