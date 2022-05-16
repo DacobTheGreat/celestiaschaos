@@ -1,0 +1,1 @@
+execute unless entity @e[type=marker,tag=spawned] run fill ~ ~35 ~ ~ ~35 ~ minecraft:structure_block[mode=load]{IgnoreEntities:1b,powered:0b,rotation:"NONE",posX:0,posY:0,posZ:-2,mode:"LOAD",sizeX:48,integrity:1.0f,showair:0b,name:"dacob:choosing_room",sizeY:27,sizeZ:48,showboundingbox:0b}

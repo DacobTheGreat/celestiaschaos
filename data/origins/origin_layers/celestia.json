@@ -1,0 +1,12 @@
+{
+  "replace": true,
+  "order": -1,
+  "enabled": true,
+  "allow_random": false,
+  "auto_choose": true,
+  "hidden": true,
+  "default_origin": "dacob:celestia",
+  "origins": [
+      "dacob:celestia"
+  ]
+}

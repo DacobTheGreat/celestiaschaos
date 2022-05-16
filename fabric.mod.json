@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "environment": "*",
+  "depends": {
+    "minecraft": "\u003e\u003d1.17",
+    "fabric": "*",
+    "fabric-api-base": "*",
+    "ccpacks": "\u003e\u003d1.0.0"
+  },
+  "authors": [
+    "ThatRobin",
+    "rv_ndm"
+  ],
+  "name": "CCPack template",
+  "id": "packnamehere",
+  "version": "0.1.0",
+  "description": "A template for CCPacks",
+  "license": "MIT License",
+  "pack_format": 7
+}

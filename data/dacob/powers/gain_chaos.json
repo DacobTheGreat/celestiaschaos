@@ -1,0 +1,15 @@
+{
+    "type": "apoli:self_action_on_kill",
+    "entity_action": {
+        "type": "apoli:execute_command",
+        "command": "give @s dacob:chaos 1"
+    },
+    "cooldown": 1,
+    "hud_render": {
+        "should_render": "false"
+    },
+    "target_condition": {
+        "type": "apoli:entity_type",
+        "entity_type": "minecraft:ender_dragon"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Angel Staff",
+    "type": "item:sword",
+    "durability": 1500,
+    "mining_speed_multiplier": 0,
+    "attack_damage": 15,
+    "attack_speed": 1,
+    "mining_level": 1,
+    "enchantability": 12,
+    "lore": [
+        "Fight the chaos, dont let it win."
+    ]
+}

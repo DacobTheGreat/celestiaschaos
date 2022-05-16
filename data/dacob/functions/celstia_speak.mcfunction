@@ -1,0 +1,1 @@
+tellraw @s {"text":"<Celestia> Find darkness in the light, gather calm in the chaos. Rebuild what was once ours. The chaos from the dragon has escaped into the world. Destroy the remnants of the dragons chaos that has manifested into bosses around this land","color":"white"}

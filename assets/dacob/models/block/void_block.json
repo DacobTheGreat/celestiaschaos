@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "dacob:block/void_block",
+    "down": "dacob:block/void_block",
+    "north": "dacob:block/void_block",
+    "south": "dacob:block/void_block",
+    "west": "dacob:block/void_block",
+    "east": "dacob:block/void_block",
+    "particle": "dacob:block/void_block"
+  }
+}

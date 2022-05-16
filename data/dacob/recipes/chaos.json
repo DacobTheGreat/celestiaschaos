@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#NE",
+        "OUO",
+        "EN#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:end_crystal"
+        },
+        "N": {
+            "item": "minecraft:netherite_scrap"
+        },
+        "E": {
+            "item": "minecraft:end_stone"
+        },
+        "O": {
+            "item": "minecraft:obsidian"
+        },
+        "U": {
+            "item": "minecraft:ender_eye"
+        }
+    },
+    "result": {
+        "item": "dacob:chaos",
+        "count": 1
+    }
+}

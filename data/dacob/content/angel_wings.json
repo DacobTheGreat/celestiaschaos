@@ -1,0 +1,11 @@
+{
+    "type": "item:armor",
+    "slot": "head",
+    "name": "Angel Wings",
+    "durability": 1500,
+    "protection": 5,
+    "toughness": 1,
+    "knockback_resistance": 0,
+    "enchantability": 6,
+    "item_group": "materials"
+}

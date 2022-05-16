@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:overworld",
+  "generator": {
+    "settings": {
+      "structures": {
+        "structures": {}
+      },
+      "layers": [
+        {
+          "block": "minecraft:black_concrete",
+          "height": 1
+        }
+      ],
+      "biome": "minecraft:plains"
+    },
+    "type": "minecraft:flat"
+  }
+}

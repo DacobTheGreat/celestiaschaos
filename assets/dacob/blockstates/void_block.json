@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "dacob:block/void_block"
+    }
+  }
+}

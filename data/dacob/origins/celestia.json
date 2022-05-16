@@ -1,0 +1,11 @@
+{
+	"powers": [
+		"dacob:gain_chaos",
+		"dacob:use_chaos"
+	],
+	"icon": "dacob:chaos",
+	"order": 10,
+	"impact": 0,
+	"name": "Celestia calls",
+	"description": "Defeat the dragon or craft pure chaos to start, Celestia calls you from within the chaos that the dragon holds."
+}

@@ -1,0 +1,34 @@
+{
+    "type": "block:generic",
+    "material": {
+        "allow_light": false,
+        "allow_movement": false,
+        "blocks_pistons": true,
+        "burnable": false,
+        "destroyed_by_piston": false,
+        "liquid": false,
+        "not_solid": false,
+        "replaceable": false
+    },
+    "effective_tool": "pickaxes",
+    "block_sound_group": {
+        "pitch": 1,
+        "volume": 1,
+        "break_sound": "block.gravel.break",
+        "step_sound": "block.gravel.step",
+        "place_sound": "block.gravel.place",
+        "hit_sound": "block.gravel.hit",
+        "fall_sound": "block.gravel.fall"
+    },
+    "collidable": true,
+    "transparent": false,
+    "hardness": 3,
+    "slipperiness": 0.6,
+    "resistance": 3,
+    "luminance": 0,
+    "mining_level": 5,
+    "block_item": {
+        "name": "Void",
+        "item_group": "building_blocks"
+    }
+}

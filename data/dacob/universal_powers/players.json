@@ -1,0 +1,9 @@
+{
+    "powers": [
+        "dacob:gain_chaos",
+        "dacob:test"
+    ],
+    "entity_entry": {
+        "entity": "minecraft:player"
+    }
+}
