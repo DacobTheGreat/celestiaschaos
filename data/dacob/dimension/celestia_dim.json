@@ -11,7 +11,7 @@
           "height": 1
         }
       ],
-      "biome": "minecraft:plains"
+      "biome": "dacob:celestia_dim"
     },
     "type": "minecraft:flat"
   }

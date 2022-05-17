@@ -1,7 +1,7 @@
 {
 	"powers": [
 		"dacob:gain_chaos",
-		"dacob:use_chaos"
+		"dacob:use_key"
 	],
 	"icon": "dacob:chaos",
 	"order": 10,
