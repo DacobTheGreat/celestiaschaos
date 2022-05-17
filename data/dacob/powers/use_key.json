@@ -14,6 +14,11 @@
                     "type": "apoli:execute_command",
                     "command": "function dacob:setup_room_2"
                 }
+            },
+            {
+                "type": "epoli:save_location",
+                "save_id": "celestia_reality_colosseum",
+                "overwrite": true
             }
         ]
     },
